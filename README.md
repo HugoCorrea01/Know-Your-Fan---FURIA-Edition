@@ -1,7 +1,7 @@
 
 # 🧠 Know Your Fan - FURIA Edition
 
-Aplicação desenvolvida para o Challenge #2 do processo seletivo de Estágio em Engenharia de Software da FURIA Esports.
+Aplicação desenvolvida para o Challenge #2 do processo seletivo da FURIA Esports.
 
 ## 🎯 Objetivo
 
