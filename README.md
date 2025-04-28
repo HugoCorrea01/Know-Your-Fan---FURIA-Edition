@@ -1,6 +1,7 @@
 
 # 🧠 Know Your Fan - FURIA Edition
 https://furiayourfan.streamlit.app/
+
 Aplicação desenvolvida para o Challenge #2 do processo seletivo da FURIA Esports.
 
 ## 🎯 Objetivo
