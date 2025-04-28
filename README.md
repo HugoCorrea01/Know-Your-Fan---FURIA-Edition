@@ -69,7 +69,7 @@ Todas as validações de IA e extrações de dados são **simulações**, respei
 
 ## ✉️ Contato
 
-Feito com 💜 por **Hugo Farranha**.
+Feito  por **Hugo Farranha**.
 
 - [LinkedIn](https://www.linkedin.com/in/hugo-farranha-843724268/)
 - [GitHub](https://github.com/HugoCorrea01)
