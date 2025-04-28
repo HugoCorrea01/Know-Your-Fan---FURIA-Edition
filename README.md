@@ -19,21 +19,6 @@ Coletar, validar e estruturar informações de torcedores da FURIA, simulando o 
 - ✅ Termo de Consentimento da LGPD obrigatório para conclusão.
 - 🎖️ Badge de conquista ao final do cadastro.
 
-## 📷 Prints da Aplicação
-
-### 📝 Formulário de Dados
-![Formulário de Dados](./prints/formulario.png)
-
-### 📑 Upload e Análise de Documento
-![Upload de Documento](./prints/upload_ia.png)
-
-### 🌐 Vinculação de Redes + Análise de IA
-![Redes Sociais](./prints/redes_ia.png)
-
-### 🚀 Barra de Progresso e Badge
-![Progresso e Conquista](./prints/progresso_badge.png)
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
